@@ -3,7 +3,7 @@ import chalk from 'chalk';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 
-global.botnumber = '';
+global.botnumber = '48699527400';
 global.confirmCode = '';
 global.nomebot = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
 global.packname = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
@@ -15,8 +15,8 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
-  ['393773842461', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true],
-  ['393512884684', 'Axtral', true],
+  ['48699527400', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true],
+  ['48699527400', 'Axtral', true],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
